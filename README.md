@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on interesting Kaggle project!
 - 🤔 I’m looking for help with finding the next interesting opportunities!
 - 📫 How to reach me: sarahwang688@berkeley.edu
-- 😄 Pronouns: she/her
+- 😄 Personal website: https://sarah-yifei-wang.github.io/
 - ⚡ Fun fact: Im also the winner of Miss Asia Canada :)
 - ✨ Achievement:
 
