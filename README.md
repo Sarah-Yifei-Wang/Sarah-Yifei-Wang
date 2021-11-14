@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Thanks for visiting my page!
 
-<!--
-**Sarah-Yifei-Wang/Sarah-Yifei-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 I'm a quantitative researcher in systematic investment by day, and data scientist/software developer by night
+- 🔭 I’m currently working on building software and models to draw insights from data and help guide busienss decisions
+- 🌱 I’m currently learning machine learning/deep learning/NLP/big data/statistical models, and the list goes on
+- 👯 I’m looking to collaborate on interesting Kaggle project!
+- 🤔 I’m looking for help with finding the next interesting opportunities!
+- 📫 How to reach me: sarahwang688@berkeley.edu
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Im also the winner of Miss Asia Canada :)
+- ✨ Achievement:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
