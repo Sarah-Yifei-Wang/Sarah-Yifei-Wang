@@ -8,5 +8,13 @@
 - 📫 How to reach me: sarahwang688@berkeley.edu
 - 😄 Personal website: https://sarah-yifei-wang.github.io/
 - ⚡ Fun fact: Im also the winner of Miss Asia Canada :)
-- ✨ Achievement:
+- ✨ Achievement
+  - :star: [NLP: Aspect-based Sentiment Analysis in Document - FOMC Meeting Minutes](https://github.com/Sarah-Yifei-Wang/nlp-absa-sentiment)
+  - :star: [React-Native: Target-Sum-Game](https://github.com/Sarah-Yifei-Wang/Target-Sum-Game)
+  - :star: [sklearn: Housing Sales Prediction from Demographic Data](https://github.com/Sarah-Yifei-Wang/demographic_housing_sales)
+  - :star: [Stats: Regression Study on Covid Situations](https://github.com/Sarah-Yifei-Wang/regression_study_covid)
+  - :star: [Neural Networks: Realized Volatility Prediction](https://github.com/Sarah-Yifei-Wang/Optiver-Realized-Volatility-Prediction)
+  - :star: [React - Website for Restaurant Management](https://github.com/Sarah-Yifei-Wang/qrunch-app-vendor-website)
+  - :star: [React-Native - Mobile for Interactive Menu and Ordering Service](https://github.com/Sarah-Yifei-Wang/qrunch-app-front-end)
+  - :star: [Optimization - Mean Variance Optimzization with Transaction Cost](https://github.com/Sarah-Yifei-Wang/Mean-Variance-Optimization-with-Transaction-Costs)
 
