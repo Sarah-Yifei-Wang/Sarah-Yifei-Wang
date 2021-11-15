@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with finding the next interesting opportunities!
 - 📫 How to reach me: sarahwang688@berkeley.edu
 - 😄 Personal website: https://sarah-yifei-wang.github.io/
-- ⚡ Fun fact: Im also the winner of Miss Asia Canada :)
+- ⚡ Fun fact: I'm also the winner of Miss Asia Canada :)
 - ✨ Achievement
   - :star: [NLP: Aspect-based Sentiment Analysis in Document - FOMC Meeting Minutes](https://github.com/Sarah-Yifei-Wang/nlp-absa-sentiment)
   - :star: [React-Native: Target-Sum-Game](https://github.com/Sarah-Yifei-Wang/Target-Sum-Game)
