@@ -16,5 +16,5 @@
   - :star: [Neural Networks: Realized Volatility Prediction](https://github.com/Sarah-Yifei-Wang/Optiver-Realized-Volatility-Prediction)
   - :star: [React - Website for Restaurant Management](https://github.com/Sarah-Yifei-Wang/qrunch-app-vendor-website)
   - :star: [React-Native - Mobile for Interactive Menu and Ordering Service](https://github.com/Sarah-Yifei-Wang/qrunch-app-front-end)
-  - :star: [Optimization - Mean Variance Optimzization with Transaction Cost](https://github.com/Sarah-Yifei-Wang/Mean-Variance-Optimization-with-Transaction-Costs)
+  - :star: [Optimization - Mean Variance Optimization with Transaction Cost](https://github.com/Sarah-Yifei-Wang/Mean-Variance-Optimization-with-Transaction-Costs)
 
